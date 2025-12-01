@@ -1,2 +1,2 @@
 # pythonRepo
-code written in python
+Different code projects and learning assignments by days
